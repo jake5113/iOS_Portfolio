@@ -1,3 +1,10 @@
+## 출시
+- [AppStore](https://apps.apple.com/kr/developer/jongwon-lee/id1726156550)
+- [PlayStore](https://play.google.com/store/apps/developer?id=Jongwon+Jake+Lee)
+
+## Android 포트폴리오
+- [Android 포트폴리오](https://github.com/jake5113/Portfolio) 
+
 # iOS_Portfolio
 
 ![img](https://github.com/jake5113/iOS_Portfolio/blob/main/images/%EC%8B%9C%EB%8B%88%EB%82%98%20%EC%BC%80%EC%9D%B4%ED%81%AC_%EB%8C%80%EC%A7%80%201.png)
